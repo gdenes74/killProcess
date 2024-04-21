@@ -6,7 +6,7 @@
 ![link para you tube](./icon/youtube.png)
 https://www.youtube.com/watch?v=TBQl1ipTHZo
 
-![contato para linkedin](./icon/linkedin.png) {www.linkedin.com/in/guilhermedenes}
+![contato para linkedin](./icon/linkedin.png) www.linkedin.com/in/guilhermedenes
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
